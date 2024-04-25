@@ -1,3 +1,13 @@
+
+## Randy's comments
+
+# I like that you created a nicely organized repo and code.  This worked for me, and could for others which equals reproducibility.
+# The comments are good.  I promised no quizzes, but I want to quiz you on them to see how much you could tell me about the functions :)
+# I believe you copied my code for the chart which is fine-that is the beauty of R.  Now in the continuing spirit of things, make sure you share code and help someone else along the way.
+# The only issue I had with the code was ``` at the very bottom which as a vestige of the code I shared.
+# I have to get a few things arranged, but I'm still hoping for the Philly Cheesesteak with you.  Can we get one without cheese?  I know that's blasphemous, but I can't do dairy :()
+
+
 #load libraries
 library(tidyverse)
 library(janitor)
